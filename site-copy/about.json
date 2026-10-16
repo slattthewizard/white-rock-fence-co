@@ -1,0 +1,39 @@
+{
+  "metaTitle": "About White Rock Fence Co | Fencing in Dallas",
+  "metaDescription": "How White Rock Fence Co works: sourced Dallas fence prices, city rules and quote checklists, with calls going to independent contractors. Call (214) 555-0137.",
+  "h1": "About White Rock Fence Co: How We Approach Dallas Fencing",
+  "heroSub": "We advertise for independent fence contractors and we don't build anything ourselves. What we can offer is a straight read on prices, city rules and how to compare quotes. Call now and get two or three written quotes side by side.",
+  "storyHtml": "<p>White Rock Fence Co is advertising for independent fence contractors in Dallas, Plano, Garland, Richardson, Mesquite, Irving and Carrollton. It does not build, repair or install anything, and it does not hold a contractor license. When you call <strong>(214) 555-0137</strong>, your request goes to an independent fence contractor who quotes the job in writing, and that contractor is the one you hire, pay and hold to the quote.</p><p>Because we are not the one doing the work, the site has to be useful on its own, so every page is built around sourced facts. Each price is attributed to the firm that publishes it, with its own date. National guides are labeled national. When two sources disagree, the page gives the range and the firm instead of a tidy average, and when nobody publishes a number, the page says a contractor will quote it. The <a href=\"/fence-cost-dallas/\">Dallas fence cost page</a> is the clearest example.</p><p>Rules get the same treatment. Permit triggers and height limits come from the City's own documents, and they differ from one suburb to the next. The City of Dallas says a permit is required for a fence over 4 feet in a front yard or over 6 feet elsewhere, and neighbors such as Plano, Richardson and Mesquite set their own thresholds. Treat every figure as a starting point and confirm it with the City and your HOA before anyone digs. The <a href=\"/fence-installation-dallas/\">fence installation page</a> walks through it.</p><p>The practical advice is the same on every page: scope the job before you compare prices. Ask each contractor to quote the same height, the same style (dog-ear or board-on-board), the same pickets and posts, the same gates, removal of the old fence, and who handles the permit and the 811 call. Whether you need <a href=\"/fence-repair-dallas/\">fence repair</a>, <a href=\"/gate-repair-dallas/\">gate repair</a> or an <a href=\"/iron-fence-dallas/\">iron fence</a>, three quotes written that way are worth more than three quotes that only share a bottom line.</p>",
+  "values": [
+    {
+      "title": "Every number has a name on it",
+      "desc": "Prices are attributed to the firm or guide that published them, such as one DFW firm advertising installed cedar privacy fence at $18 to $28 per linear foot while another advertises $30 to $60 for 6-foot wood. If a figure isn't published anywhere we can point to, we leave it out."
+    },
+    {
+      "title": "Rules come from the city, not from memory",
+      "desc": "Permit triggers, height limits and prohibited materials are taken from City documents and tied to the city that wrote them. Dallas, Plano, Garland and the rest differ, and an HOA can control the type of fence on top of that, so we always say to confirm with the City and your HOA."
+    },
+    {
+      "title": "Scope the job before you price it",
+      "desc": "Repair or replace is a diagnosis question: how many posts have moved, how many boards are gone, and why. Much of the Dallas area sits on expansive clay that swells and shrinks with moisture, so ask a contractor what moved the post and what the quote does about it, not just what it costs."
+    },
+    {
+      "title": "Clear about what we are not",
+      "desc": "We are not a contractor, so we don't claim licenses, insurance, warranties or crews. Texas does not license fence contractors at the state level, and some cities register them, so ask each contractor for city registration and proof of insurance. For an automatic gate, power wiring is electrical work, so ask the installer who holds the electrical license."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Is White Rock Fence Co a fence contractor?",
+      "a": "No. It is an advertising site for independent Dallas-area fence contractors. It does not build, repair or install fences or gates, and it does not hold a contractor license. The contractor who quotes your job in writing is the one who does the work, so read the quote and the contract with that contractor in mind."
+    },
+    {
+      "q": "Does Texas license fence contractors, and what should I ask for?",
+      "a": "We did not find a state license category for fence contractors, so Texas does not license them at the state level. Some cities do register contractors, including Dallas, Richardson and Irving, and Dallas asks for a general contractor on a fence permit application. Ask each contractor for their city registration where it applies and for proof of insurance, and confirm the details with the City."
+    },
+    {
+      "q": "Are the prices on this site a quote?",
+      "a": "No. Prices on this site are figures that independent firms or national guides publish, shown with their source. For example, one DFW firm advertises installed cedar privacy fence at $18 to $28 per linear foot for a standard 6-foot height, and another advertises $30 to $60 for 6-foot wood. Your price depends on height, style, gates, access and removal of the old fence, so call now and get two or three written quotes for the same scope."
+    }
+  ]
+}

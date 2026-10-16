@@ -1,0 +1,6 @@
+# White Rock Fence Co — robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://whiterockfenceco.com/sitemap-index.xml
